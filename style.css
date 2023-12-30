@@ -1,0 +1,28 @@
+/* .nav-link{
+    color: white !important;
+} */
+.Account{
+    margin-left: -37% !important;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.con-div{
+    height: 230px;
+    border: 1px solid;
+    margin-top: 30px;
+    width: 100%;
+}
+.container-fluid{
+    border: 1px solid;
+    height: 100px;
+}
+.BackToTop{
+    width: 100%;
+}
+.BackToTop>h4{
+    margin-top: 10px;
+    width: 100%;
+}
